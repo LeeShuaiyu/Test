@@ -1,0 +1,82 @@
+
+1. research content
+In the digital age, movement data has been widely utilized in various fields to investigate human behavior patterns, including transportation, urban planning, and ecology. However, modeling movement data using deterministic approaches can be challenging due to the presence of various disturbances, such as measurement errors, environmental factors, and individual differences in behavior. Stochastic Differential Equations (SDEs) provide a natural framework for modeling such stochastic processes, as they allow for the incorporation of random disturbances into the model. This makes SDEs an ideal tool for modeling movement data, as they can better account for the inherent uncertainty and variability in the data. SDEs have been proven to be effective in modeling movement data, with previous research achieving promising results on animal migration data. However, existing SDE models typically assume a single movement pattern and are not well-suited to modeling data with multiple movement modes. To address this limitation, we introduce a switching SDE model that allows for the switching of individual movement patterns.
+The parameters in the SDE model often have physical interpretations, which can help experts to understand system characteristics and make informed decisions. In addition, parameter estimation for the model also has the practical implications mentioned earlier, such as improving transportation and logistics processes, reducing costs, and optimizing decision-making in fields such as transportation, urban planning, and ecology.
+Estimating parameters for SDE models, especially those with switching dynamics, is challenging due to the lack of explicit solutions. Current methods for estimating switching parameters are limited, and we aim to address this by developing a machine learning-based approach that can effectively extract information from large datasets such as GPS data from vehicles. Our study focuses on building a switching SDE analysis model for movement data and proposing a novel approach for parameter estimation.
+(2) How the research project leads to the creation of science and technology/innovation
+The model not only helps to understand individual movement patterns but also provides information on the location and temporal variation of environmental attractors, which can aid in understanding resource accumulation and changes in the environment (when using animal data) or economic development distribution in a particular area (when using vehicle GPS data). This aspect of the research contributes to the creation of science and technology by providing a more accurate and efficient method for analyzing movement data, leading to better decision-making in various fields such as ecology, transportation, and urban planning.
+(3)Inovation
+Our research project has several key innovations. First, while previous studies have utilized SDE models to analyze movement data, these models were limited to single movement patterns. Our proposed switching SDE model allows for multiple movement patterns and better captures the complexities of individual behavior. Second, traditional methods struggle to estimate parameters for switching SDE models, but our machine learning-based approach provides estimates for all parameters in the model. These innovations make our research valuable for understanding individual behavior and environmental dynamics in fields such as transportation, urban planning, and ecology.
+(4)	Future Prospects for Research Issues
+In future research,  the SDE model will be utilized to analyze real-world movement data, including animal GPS data and vehicle GPS data, in order to provide theoretical support and analysis methods for data-driven research in fields such as ecology, traffic engineering, and behavioral science. Furthermore, I plan to explore various model settings, including different model dimensions and types of noise, and adjust the parameter estimation methods accordingly. Through this, we will explore the utilization of the SDE model for data analysis and its application to real-world scenarios, and seek to facilitate data-driven scientific decision-making and contribute to the progress of society and technological innovation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shi
